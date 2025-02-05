@@ -1,0 +1,6 @@
+# before insatlling these libraries make sure python installed in your system
+# pip install -r requirements.txt
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+webdrivermanager
